@@ -1,0 +1,249 @@
+FIPS,Countyname,Postal,LineCode,IndustryName,2012,2013,2014,2015
+36001,Albany,NY,1,All Industries,24791703,26168460,27860302,28447555
+36001,Albany,NY,2,  Private goods-producing industries,2094613,2246394,2602324,2696366
+36001,Albany,NY,3,  Private services-providing industries,16443424,16953822,18400636,18879339
+36001,Albany,NY,4,  Government and government enterprises,6253666,6968244,6857342,6871850
+36003,Allegany,NY,1,All Industries,1016724,1087214,1164762,1168226
+36003,Allegany,NY,2,  Private goods-producing industries,298802,347270,354349,348300
+36003,Allegany,NY,3,  Private services-providing industries,451566,457893,495009,504669
+36003,Allegany,NY,4,  Government and government enterprises,266356,282050,315404,315257
+36005,Bronx,NY,1,All Industries,29926313,29814618,30368740,31177115
+36005,Bronx,NY,2,  Private goods-producing industries,1711436,1904863,2003091,2155684
+36005,Bronx,NY,3,  Private services-providing industries,21588618,20895311,21684707,22317717
+36005,Bronx,NY,4,  Government and government enterprises,6626258,7014444,6680942,6703714
+36007,Broome,NY,1,All Industries,8695765,8694956,8685895,8516051
+36007,Broome,NY,2,  Private goods-producing industries,1922728,1921188,1878486,1760397
+36007,Broome,NY,3,  Private services-providing industries,5292108,5220119,5280800,5235821
+36007,Broome,NY,4,  Government and government enterprises,1480929,1553650,1526610,1519833
+36009,Cattaraugus,NY,1,All Industries,2377326,2503466,2516943,2573763
+36009,Cattaraugus,NY,2,  Private goods-producing industries,534197,588536,567009,559535
+36009,Cattaraugus,NY,3,  Private services-providing industries,1148664,1180089,1241976,1304271
+36009,Cattaraugus,NY,4,  Government and government enterprises,694466,734840,707957,709957
+36011,Cayuga,NY,1,All Industries,2128462,2290176,2366275,2376101
+36011,Cayuga,NY,2,  Private goods-producing industries,539590,602948,631369,608964
+36011,Cayuga,NY,3,  Private services-providing industries,1091490,1171765,1214536,1255633
+36011,Cayuga,NY,4,  Government and government enterprises,497383,515463,520370,511504
+36013,Chautauqua,NY,1,All Industries,4239339,4409754,4437409,4522136
+36013,Chautauqua,NY,2,  Private goods-producing industries,1414647,1528889,1492928,1510094
+36013,Chautauqua,NY,3,  Private services-providing industries,2116117,2125884,2163922,2259134
+36013,Chautauqua,NY,4,  Government and government enterprises,708575,754981,780559,752908
+36015,Chemung,NY,1,All Industries,3239426,3478880,3644359,3603274
+36015,Chemung,NY,2,  Private goods-producing industries,803190,861668,927981,936239
+36015,Chemung,NY,3,  Private services-providing industries,1853843,2002771,2083708,2058343
+36015,Chemung,NY,4,  Government and government enterprises,582393,614441,632670,608692
+36017,Chenango,NY,1,All Industries,1565538,1610030,1712721,1827451
+36017,Chenango,NY,2,  Private goods-producing industries,579643,635715,649464,713394
+36017,Chenango,NY,3,  Private services-providing industries,704915,674026,743065,793916
+36017,Chenango,NY,4,  Government and government enterprises,280979,300290,320192,320141
+36019,Clinton,NY,1,All Industries,3004272,3182812,3198565,3255409
+36019,Clinton,NY,2,  Private goods-producing industries,518528,558050,564290,585431
+36019,Clinton,NY,3,  Private services-providing industries,1734951,1853646,1854698,1880661
+36019,Clinton,NY,4,  Government and government enterprises,750793,771116,779577,789316
+36021,Columbia,NY,1,All Industries,1895996,2042726,2150652,2189642
+36021,Columbia,NY,2,  Private goods-producing industries,361504,404681,429981,411308
+36021,Columbia,NY,3,  Private services-providing industries,1178432,1270649,1334647,1375293
+36021,Columbia,NY,4,  Government and government enterprises,356060,367396,386024,403042
+36023,Cortland,NY,1,All Industries,1576938,1656758,1737397,1828685
+36023,Cortland,NY,2,  Private goods-producing industries,450279,482000,499744,556763
+36023,Cortland,NY,3,  Private services-providing industries,865261,879149,923969,949999
+36023,Cortland,NY,4,  Government and government enterprises,261398,295610,313685,321923
+36025,Delaware,NY,1,All Industries,1419923,1507508,1541176,1598902
+36025,Delaware,NY,2,  Private goods-producing industries,474028,496329,510089,641966
+36025,Delaware,NY,3,  Private services-providing industries,664561,692495,706592,648578
+36025,Delaware,NY,4,  Government and government enterprises,281335,318684,324496,308358
+36027,Dutchess,NY,1,All Industries,11412358,12048629,12177600,12547096
+36027,Dutchess,NY,2,  Private goods-producing industries,2471494,2512585,2358790,2512957
+36027,Dutchess,NY,3,  Private services-providing industries,6876208,7362735,7666309,7946267
+36027,Dutchess,NY,4,  Government and government enterprises,2064655,2173309,2152501,2087873
+36029,Erie,NY,1,All Industries,44976857,46079410,49323229,51589534
+36029,Erie,NY,2,  Private goods-producing industries,7990065,7759389,8052981,8145597
+36029,Erie,NY,3,  Private services-providing industries,30183437,31102533,34045077,36083276
+36029,Erie,NY,4,  Government and government enterprises,6803355,7217487,7225171,7360661
+36031,Essex,NY,1,All Industries,1174562,1284129,1303178,1282210
+36031,Essex,NY,2,  Private goods-producing industries,213091,239090,237061,220688
+36031,Essex,NY,3,  Private services-providing industries,626504,684095,696004,697468
+36031,Essex,NY,4,  Government and government enterprises,334967,360944,370113,364054
+36033,Franklin,NY,1,All Industries,1514130,1569284,1541379,1530027
+36033,Franklin,NY,2,  Private goods-producing industries,141409,155675,149401,139732
+36033,Franklin,NY,3,  Private services-providing industries,689928,701122,725635,742578
+36033,Franklin,NY,4,  Government and government enterprises,682794,712487,666344,647717
+36035,Fulton,NY,1,All Industries,1326795,1354452,1364081,1405612
+36035,Fulton,NY,2,  Private goods-producing industries,189755,,208586,
+36035,Fulton,NY,3,  Private services-providing industries,810833,,871507,
+36035,Fulton,NY,4,  Government and government enterprises,326207,327886,283989,291008
+36037,Genesee,NY,1,All Industries,1951180,2045232,2083208,2080250
+36037,Genesee,NY,2,  Private goods-producing industries,545467,602138,615938,622598
+36037,Genesee,NY,3,  Private services-providing industries,986169,991550,989375,967982
+36037,Genesee,NY,4,  Government and government enterprises,419544,451545,477895,489670
+36039,Greene,NY,1,All Industries,1999946,1880540,1826418,1935691
+36039,Greene,NY,2,  Private goods-producing industries,185117,198772,200274,224751
+36039,Greene,NY,3,  Private services-providing industries,1424359,1281868,1217641,1315074
+36039,Greene,NY,4,  Government and government enterprises,390470,399901,408503,395866
+36041,Hamilton,NY,1,All Industries,122181,129783,150136,141679
+36041,Hamilton,NY,2,  Private goods-producing industries,,11721,,
+36041,Hamilton,NY,3,  Private services-providing industries,,64994,,
+36041,Hamilton,NY,4,  Government and government enterprises,48580,53068,72610,65317
+36043,Herkimer,NY,1,All Industries,1356131,1454786,1490084,1491835
+36043,Herkimer,NY,2,  Private goods-producing industries,390741,413507,399574,403439
+36043,Herkimer,NY,3,  Private services-providing industries,674979,724615,761179,768718
+36043,Herkimer,NY,4,  Government and government enterprises,290412,316664,329331,319679
+36045,Jefferson,NY,1,All Industries,6327637,6401660,6420458,6250685
+36045,Jefferson,NY,2,  Private goods-producing industries,,499653,521776,523260
+36045,Jefferson,NY,3,  Private services-providing industries,,2144416,2190471,2163996
+36045,Jefferson,NY,4,  Government and government enterprises,3820827,3757591,3708212,3563430
+36047,Kings,NY,1,All Industries,59716251,61603353,65748703,68430708
+36047,Kings,NY,2,  Private goods-producing industries,3689945,3917652,4180532,4723087
+36047,Kings,NY,3,  Private services-providing industries,46284496,47283475,50803284,52761087
+36047,Kings,NY,4,  Government and government enterprises,9741810,10402226,10764887,10946534
+36049,Lewis,NY,1,All Industries,712340,769803,815929,796804
+36049,Lewis,NY,2,  Private goods-producing industries,218269,240813,241663,239498
+36049,Lewis,NY,3,  Private services-providing industries,319427,351256,386562,370129
+36049,Lewis,NY,4,  Government and government enterprises,174644,177734,187704,187178
+36051,Livingston,NY,1,All Industries,1687301,1802048,1817320,1894258
+36051,Livingston,NY,2,  Private goods-producing industries,385100,433875,494779,563612
+36051,Livingston,NY,3,  Private services-providing industries,771274,811076,836438,850822
+36051,Livingston,NY,4,  Government and government enterprises,530927,557097,486104,479824
+36053,Madison,NY,1,All Industries,1740873,1853180,1922283,1928689
+36053,Madison,NY,2,  Private goods-producing industries,407729,442581,439070,433034
+36053,Madison,NY,3,  Private services-providing industries,1027243,1076752,1139818,1165652
+36053,Madison,NY,4,  Government and government enterprises,305901,333847,343394,330003
+36055,Monroe,NY,1,All Industries,39926339,40567241,42200154,44497871
+36055,Monroe,NY,2,  Private goods-producing industries,7375845,7693221,7427534,7899704
+36055,Monroe,NY,3,  Private services-providing industries,28462691,28480257,30385419,32186589
+36055,Monroe,NY,4,  Government and government enterprises,4087803,4393763,4387201,4411578
+36057,Montgomery,NY,1,All Industries,1415887,1497636,1548789,1591056
+36057,Montgomery,NY,2,  Private goods-producing industries,337753,363978,374773,393859
+36057,Montgomery,NY,3,  Private services-providing industries,875310,908352,926461,962921
+36057,Montgomery,NY,4,  Government and government enterprises,202823,225306,247555,234276
+36059,Nassau,NY,1,All Industries,82095547,84618438,88771946,90762322
+36059,Nassau,NY,2,  Private goods-producing industries,5715399,6124991,6239573,6543157
+36059,Nassau,NY,3,  Private services-providing industries,66582157,68320271,72120310,73769838
+36059,Nassau,NY,4,  Government and government enterprises,9797992,10173176,10412064,10449327
+36061,New York,NY,1,All Industries,610107941,619538778,657009064,690040650
+36061,New York,NY,2,  Private goods-producing industries,7877198,8217717,8988338,10101652
+36061,New York,NY,3,  Private services-providing industries,574476082,581904074,617415093,648976531
+36061,New York,NY,4,  Government and government enterprises,27754660,29416987,30605633,30962467
+36063,Niagara,NY,1,All Industries,7869966,8313001,8831190,9012471
+36063,Niagara,NY,2,  Private goods-producing industries,1414647,1393794,1480388,1493947
+36063,Niagara,NY,3,  Private services-providing industries,5268764,5689747,6111724,6288318
+36063,Niagara,NY,4,  Government and government enterprises,1186555,1229461,1239078,1230206
+36065,Oneida,NY,1,All Industries,9048352,8974632,9277595,9309566
+36065,Oneida,NY,2,  Private goods-producing industries,1230548,1224499,1284997,1205032
+36065,Oneida,NY,3,  Private services-providing industries,5590038,5416842,5763624,5900640
+36065,Oneida,NY,4,  Government and government enterprises,2227766,2333291,2228973,2203894
+36067,Onondaga,NY,1,All Industries,24928018,25489265,26998897,28411051
+36067,Onondaga,NY,2,  Private goods-producing industries,3754517,3928324,3896223,4030052
+36067,Onondaga,NY,3,  Private services-providing industries,17528144,17672783,19275046,20500723
+36067,Onondaga,NY,4,  Government and government enterprises,3645357,3888158,3827629,3880276
+36069,Ontario,NY,1,All Industries,4550094,5005392,5217795,5804659
+36069,Ontario,NY,2,  Private goods-producing industries,1156729,1221309,1256280,1268916
+36069,Ontario,NY,3,  Private services-providing industries,2709195,3050834,3183274,3759531
+36069,Ontario,NY,4,  Government and government enterprises,684171,733249,778241,776212
+36071,Orange,NY,1,All Industries,13046394,13463826,13972436,14559612
+36071,Orange,NY,2,  Private goods-producing industries,1368242,1423827,1525048,1582641
+36071,Orange,NY,3,  Private services-providing industries,8239655,8580173,8842229,9334270
+36071,Orange,NY,4,  Government and government enterprises,3438497,3459826,3605159,3642701
+36073,Orleans,NY,1,All Industries,1065230,1100761,1159228,1143840
+36073,Orleans,NY,2,  Private goods-producing industries,354338,396453,414415,401462
+36073,Orleans,NY,3,  Private services-providing industries,358890,340241,377167,391358
+36073,Orleans,NY,4,  Government and government enterprises,352002,364067,367647,351021
+36075,Oswego,NY,1,All Industries,5654148,6410790,6640917,6848655
+36075,Oswego,NY,2,  Private goods-producing industries,542541,564873,584033,553492
+36075,Oswego,NY,3,  Private services-providing industries,4478714,5153696,5334701,5589844
+36075,Oswego,NY,4,  Government and government enterprises,632892,692221,722183,705319
+36077,Otsego,NY,1,All Industries,1929070,1951400,1992596,2067642
+36077,Otsego,NY,2,  Private goods-producing industries,236473,244465,230537,226233
+36077,Otsego,NY,3,  Private services-providing industries,1334291,1322747,1376026,1468630
+36077,Otsego,NY,4,  Government and government enterprises,358306,384188,386033,372779
+36079,Putnam,NY,1,All Industries,2611112,2716403,2827087,2929313
+36079,Putnam,NY,2,  Private goods-producing industries,,381496,,405289
+36079,Putnam,NY,3,  Private services-providing industries,,1795402,,1970788
+36079,Putnam,NY,4,  Government and government enterprises,506739,539505,557514,553236
+36081,Queens,NY,1,All Industries,70002804,72459247,77202197,80822563
+36081,Queens,NY,2,  Private goods-producing industries,7424852,7869967,8448242,9274492
+36081,Queens,NY,3,  Private services-providing industries,52243930,53634569,57423874,60020963
+36081,Queens,NY,4,  Government and government enterprises,10334022,10954711,11330081,11527108
+36083,Rensselaer,NY,1,All Industries,5069113,5166142,5503878,5788645
+36083,Rensselaer,NY,2,  Private goods-producing industries,705255,749989,775660,859899
+36083,Rensselaer,NY,3,  Private services-providing industries,3470397,3464201,3652040,3860792
+36083,Rensselaer,NY,4,  Government and government enterprises,893461,951951,1076178,1067954
+36085,Richmond,NY,1,All Industries,10682962,11578082,12560658,12258530
+36085,Richmond,NY,2,  Private goods-producing industries,772868,943313,1000233,1147359
+36085,Richmond,NY,3,  Private services-providing industries,8017938,8630060,9539393,9079034
+36085,Richmond,NY,4,  Government and government enterprises,1892157,2004709,2021032,2032137
+36087,Rockland,NY,1,All Industries,18159993,17752242,19103925,20909765
+36087,Rockland,NY,2,  Private goods-producing industries,6081035,4902023,6025572,7296248
+36087,Rockland,NY,3,  Private services-providing industries,9969515,10520208,10927360,11486818
+36087,Rockland,NY,4,  Government and government enterprises,2109443,2330011,2150994,2126699
+36089,St. Lawrence,NY,1,All Industries,2839578,2958512,3028229,3040868
+36089,St. Lawrence,NY,2,  Private goods-producing industries,520576,548943,548999,469069
+36089,St. Lawrence,NY,3,  Private services-providing industries,1473712,1513217,1548933,1625759
+36089,St. Lawrence,NY,4,  Government and government enterprises,845290,896352,930297,946041
+36091,Saratoga,NY,1,All Industries,8427267,8918705,9318420,9737340
+36091,Saratoga,NY,2,  Private goods-producing industries,1357283,1507434,1548390,1743508
+36091,Saratoga,NY,3,  Private services-providing industries,5857107,6134484,6480583,6719886
+36091,Saratoga,NY,4,  Government and government enterprises,1212877,1276788,1289447,1273945
+36093,Schenectady,NY,1,All Industries,7044969,7243225,7458987,7816128
+36093,Schenectady,NY,2,  Private goods-producing industries,1574918,1534018,1525809,1598372
+36093,Schenectady,NY,3,  Private services-providing industries,4532067,4685219,5001088,5279684
+36093,Schenectady,NY,4,  Government and government enterprises,937985,1023988,932089,938072
+36095,Schoharie,NY,1,All Industries,667832,684832,698179,695594
+36095,Schoharie,NY,2,  Private goods-producing industries,94844,99959,,96126
+36095,Schoharie,NY,3,  Private services-providing industries,393651,394503,,399923
+36095,Schoharie,NY,4,  Government and government enterprises,179337,190369,197957,199545
+36097,Schuyler,NY,1,All Industries,410499,420056,419768,407051
+36097,Schuyler,NY,2,  Private goods-producing industries,141485,142310,144530,138147
+36097,Schuyler,NY,3,  Private services-providing industries,181366,187714,188039,186633
+36097,Schuyler,NY,4,  Government and government enterprises,87648,90032,87200,82271
+36099,Seneca,NY,1,All Industries,1095288,1133682,1169626,1161703
+36099,Seneca,NY,2,  Private goods-producing industries,343915,,409241,395989
+36099,Seneca,NY,3,  Private services-providing industries,480455,,486222,492601
+36099,Seneca,NY,4,  Government and government enterprises,270918,260966,274163,273113
+36101,Steuben,NY,1,All Industries,3576382,4126756,4569173,4814551
+36101,Steuben,NY,2,  Private goods-producing industries,614611,1034257,1385243,1554646
+36101,Steuben,NY,3,  Private services-providing industries,2326758,2430112,2505535,2594598
+36101,Steuben,NY,4,  Government and government enterprises,635013,662387,678395,665307
+36103,Suffolk,NY,1,All Industries,76859133,79602809,82333702,84761638
+36103,Suffolk,NY,2,  Private goods-producing industries,12028740,12093628,12501554,13267136
+36103,Suffolk,NY,3,  Private services-providing industries,52994352,55054248,57335825,58858619
+36103,Suffolk,NY,4,  Government and government enterprises,11836041,12454933,12496323,12635883
+36105,Sullivan,NY,1,All Industries,2121811,2293972,2327549,2293116
+36105,Sullivan,NY,2,  Private goods-producing industries,227249,227544,233137,254919
+36105,Sullivan,NY,3,  Private services-providing industries,1359562,1503127,1522320,1471840
+36105,Sullivan,NY,4,  Government and government enterprises,535000,563301,572092,566356
+36107,Tioga,NY,1,All Industries,1277955,1396586,1434182,1584559
+36107,Tioga,NY,2,  Private goods-producing industries,600200,680768,684446,767153
+36107,Tioga,NY,3,  Private services-providing industries,488078,513781,542892,612478
+36107,Tioga,NY,4,  Government and government enterprises,189676,202036,206844,204928
+36109,Tompkins,NY,1,All Industries,5173541,5410441,5626199,5836211
+36109,Tompkins,NY,2,  Private goods-producing industries,578220,594757,564088,567648
+36109,Tompkins,NY,3,  Private services-providing industries,4088431,4273424,4526364,4744156
+36109,Tompkins,NY,4,  Government and government enterprises,506890,542260,535747,524407
+36111,Ulster,NY,1,All Industries,6036326,6766561,6982960,6487604
+36111,Ulster,NY,2,  Private goods-producing industries,657709,679855,689833,712296
+36111,Ulster,NY,3,  Private services-providing industries,4069725,4722281,4939396,4437676
+36111,Ulster,NY,4,  Government and government enterprises,1308892,1364424,1353732,1337632
+36113,Warren,NY,1,All Industries,3115315,3329680,3438055,3635765
+36113,Warren,NY,2,  Private goods-producing industries,581962,592687,579282,584123
+36113,Warren,NY,3,  Private services-providing industries,2180686,2360535,2467764,2660592
+36113,Warren,NY,4,  Government and government enterprises,352667,376457,391008,391050
+36115,Washington,NY,1,All Industries,1442354,1496984,1492088,1503789
+36115,Washington,NY,2,  Private goods-producing industries,443493,495496,486087,466051
+36115,Washington,NY,3,  Private services-providing industries,578314,571601,574280,613924
+36115,Washington,NY,4,  Government and government enterprises,420547,429887,431721,423814
+36117,Wayne,NY,1,All Industries,3058482,3276876,3188671,3235146
+36117,Wayne,NY,2,  Private goods-producing industries,922389,987792,992234,1003883
+36117,Wayne,NY,3,  Private services-providing industries,1505960,1601364,1618629,1655975
+36117,Wayne,NY,4,  Government and government enterprises,630133,687720,577809,575288
+36119,Westchester,NY,1,All Industries,67308615,69153225,71996342,75894165
+36119,Westchester,NY,2,  Private goods-producing industries,5978492,6267215,6465887,6920548
+36119,Westchester,NY,3,  Private services-providing industries,53811897,54943753,57369938,60878352
+36119,Westchester,NY,4,  Government and government enterprises,7518226,7942257,8160518,8095265
+36121,Wyoming,NY,1,All Industries,1364490,1431346,1520711,1523129
+36121,Wyoming,NY,2,  Private goods-producing industries,372537,403662,409159,386021
+36121,Wyoming,NY,3,  Private services-providing industries,612744,638257,713811,746609
+36121,Wyoming,NY,4,  Government and government enterprises,379209,389427,397741,390499
+36123,Yates,NY,1,All Industries,568869,610202,622285,624722
+36123,Yates,NY,2,  Private goods-producing industries,172057,191500,,191968
+36123,Yates,NY,3,  Private services-providing industries,310228,329175,,335113
+36123,Yates,NY,4,  Government and government enterprises,86584,89528,98840,97641

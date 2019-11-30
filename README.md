@@ -9,7 +9,10 @@ https://healthdata.gov/dataset/influenza-laboratory-confirmed-cases-county-begin
 
 Secondary Data:
 
-Temperature and precipitation: https://www.ncdc.noaa.gov/cdo-web/search 
+Temperature and precipitation: https://www.ncdc.noaa.gov/cdo-web/search
+Temperature and precipitation alternative: http://climod2.nrcc.cornell.edu/
+
+Temperature historical averages for specific cities = http://www.nrcc.cornell.edu/wxstation/comparative/comparative.html
 
 Demographics, density, poverty and unemployment: https://www.ers.usda.gov/data-products/atlas-of-rural-and-small-town-america/download-the-data/ 
 

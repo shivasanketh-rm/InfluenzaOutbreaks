@@ -52,3 +52,4 @@ Secondary Data:
 <h3> Performance comparision of prediction models </h3>
   <img src="/Plots/Model_Performance.png" height="246px" width="250px"">
 
+*<h4>For more details: <a href="/DS_Influenza_Report.pdf">Influenza Outbreaks Report</a></h4>*

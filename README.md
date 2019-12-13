@@ -3,7 +3,7 @@
 
 *<h3>Report: <a href="/DS_Influenza_Report.pdf">Influenza Outbreaks Report</a></h3>*
 
-*Dataset details*
+<p>Dataset details</p>
 
 Primary Dataset: 
 

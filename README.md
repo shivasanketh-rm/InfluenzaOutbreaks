@@ -3,7 +3,7 @@
 
 *<h3>Report: <a href="/DS_Influenza_Report.pdf">Influenza Outbreaks Report</a></h3>*
 
-<p>Dataset details</p>
+<h3>Dataset details</h3>
 
 Primary Dataset: 
 
@@ -20,7 +20,7 @@ Secondary Data:
 * County GDP: https://www.bea.gov/data/gdp/gdp-county 
 * Google Trends: https://trends.google.com/trends/explore?geo=US-NY&q=flu
 
-*Libraries Used*
+<h3>Libraries Used</h3>
 
 * Numpy
 * Pandas
@@ -28,7 +28,7 @@ Secondary Data:
 * Scikit-Learn (sklearn)
 * Keras*
 
-*Feature Engineering*
+<h3>Feature Engineering</h3>
 
 * InfluenzaOutbreak_DataPreparation.ipynb
 * IO_weatherPrep.ipynb
@@ -36,13 +36,15 @@ Secondary Data:
 * Fill_weather_nan.ipynb
 * IO_weatherPrep.ipynb
 
-*Data Analysis*
+<h3>Data Analysis</h3>
 
 * IO_Analysis.ipynb
 
-*Prediction models*
+<h3>Prediction models</h3>
 
 * IO_pred_model.ipynb
-* IO_pred_model_without_historicData.ipynb
+* IO_pred_model_without_historicData.ipynb*
 * base_model_performance.ipynb
 * Neural_net.ipynb*	
+
+\* Not used in Report
